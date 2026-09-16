@@ -4,10 +4,10 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante del Instituto Tecnologico de Barcelona (ITB)
-- 🎮 Apasionado por los videojuegos
-- 💻 Aprendiendo programación y desarrollo de videojuegos
-- 🇪🇸 Barcelona, España
+🎓 Estudiante del Instituto Tecnologico de Barcelona (ITB)
+🎮 Apasionado por los videojuegos
+💻 Aprendiendo programación y desarrollo de videojuegos
+
 
 ## 🎮 Proyectos
 
