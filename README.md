@@ -7,10 +7,9 @@
 
 ## 🧑‍💻 Sobre mí
 
--🎓 Estudiante del Instituto Tecnologico de Barcelona (ITB)
--🎮 Apasionado por los videojuegos
--💻 Aprendiendo programación y desarrollo de videojuegos
-
+-  🎓 Estudiante del Instituto Tecnologico de Barcelona (ITB)
+-  🎮 Apasionado por los videojuegos
+-  💻 Aprendiendo programación y desarrollo de videojuegos
 
 ## 🎮 Proyectos
 
