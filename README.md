@@ -1,3 +1,6 @@
+![Banner](https://static.actugaming.net/media/2019/10/outer-wilds-banner.jpg)
+
+
 # ¡Hola! Soy Roger 👋
 
 🎮 Estudiante de desarrollo de videojuegos
