@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Roger 👋
 
-<!--
-**rdelaasuncion/rdelaasuncion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Estudiante de desarrollo de videojuegos
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante del Instituto Tecnologico de Barcelona (ITB)
+- 🎮 Apasionado por los videojuegos
+- 💻 Aprendiendo programación y desarrollo de videojuegos
+- 🇪🇸 Barcelona, España
+
+## 🎮 Proyectos
+
+Actualmente estoy aprendiendo las bases
+
+## 📫 Contacto
+
+roger.delaasuncion.7ea@tib.cat
